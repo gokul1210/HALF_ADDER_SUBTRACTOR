@@ -1,3 +1,6 @@
+## NAME : GOKUL S
+## REG NO :212224230075
+
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -18,9 +21,11 @@ Half adder is a combinational circuit that performs simple addition of two binar
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 
-![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
-
 Figure -01 HALF ADDER
+
+ ![HALF SUB](https://github.com/user-attachments/assets/73a20d59-85e2-47d9-9974-2cec19de4251)
+
+
 
 **Half Subtractor**
 
@@ -29,11 +34,21 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 Diff = A’B+AB’ =A ⊕ B
 Borrow = A’B
 
- ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
+![Screenshot 2025-04-15 112110 - Copy](https://github.com/user-attachments/assets/5118116e-5c4e-4e21-80fa-8f0e80896353)
+
+
 
 Figure -02 HALF Subtractor
 
 **Truthtable**
+HALF ADDER
+
+![Screenshot 2025-04-16 084057](https://github.com/user-attachments/assets/ac8aa90c-08f3-4509-9250-2d94fa45e98c)
+
+HALF SUBTRACTOR
+
+![Screenshot 2025-04-16 083851](https://github.com/user-attachments/assets/89169a3b-8bf0-450a-8fe7-d5c37a978895)
+
 
 **Procedure**
 
@@ -50,12 +65,30 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+HALF ADDER 
 
-Developed by: RegisterNumber:*/
+![HALF ADDER](https://github.com/user-attachments/assets/af1015aa-9768-4e8f-a8f2-040ea6a107ff)
+
+
+HALF SUBTRACTOR 
+
+
+![HALF SUB 2](https://github.com/user-attachments/assets/b71394e0-1680-40ce-8112-f67254c71d30)
+
 
 **RTL Schematic**
 
+
+HALF ADDER :
+![Screenshot 2025-04-15 112258 - Copy](https://github.com/user-attachments/assets/41dc41e0-fee2-4907-a9a1-6f0fc3a7660d)
+
+
+
 **Output/TIMING Waveform**
 
+![HALF SUB 1](https://github.com/user-attachments/assets/417e7abc-7a9a-4d73-b65c-bdeaf70ffd45)
+
+
 **Result:**
+
+THE OUTPUT IS EXECUTED SUCCESSFULLY
